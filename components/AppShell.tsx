@@ -46,9 +46,7 @@ export function AppShell() {
             </div>
             <div className="min-w-0">
               <p className="text-xs font-semibold text-cyan">Secure industrial SaaS</p>
-              <h1 className="text-lg font-bold leading-tight">
-                3D Transfer Platform
-              </h1>
+              <h1 className="text-lg font-bold leading-tight">3DX/DT</h1>
             </div>
           </div>
 
@@ -107,7 +105,7 @@ export function AppShell() {
           <header className="sticky top-0 z-30 border-b border-line bg-white/95 px-4 py-3 backdrop-blur md:px-6">
             <div className="flex flex-col gap-3 xl:flex-row xl:items-center xl:justify-between">
               <div className="min-w-0">
-                <p className="text-sm font-semibold text-marine">Industrial 3D Technology Transfer & Remote Engineering Collaboration Platform</p>
+                <p className="text-sm font-semibold text-marine">3DX/DT | Industrial 3D Technology Transfer & Digital Twin Collaboration Platform</p>
                 <div className="mt-2 flex flex-wrap gap-2 text-xs font-semibold text-steel">
                   <span className="inline-flex h-7 items-center rounded-md border border-line bg-panel px-2.5">
                     <Database aria-hidden="true" className="mr-1.5" size={14} />

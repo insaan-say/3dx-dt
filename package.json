@@ -1,5 +1,5 @@
 {
-  "name": "industrial-3d-transfer-platform",
+  "name": "@3dx/dt",
   "version": "0.1.0",
   "private": true,
   "type": "module",

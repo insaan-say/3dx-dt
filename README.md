@@ -1,4 +1,4 @@
-# Industrial 3D Technology Transfer & Remote Engineering Platform
+# 3DX/DT
 
 Enterprise SaaS MVP for secure CAD and manufacturing document transfer, browser-based 3D engineering review, remote repair collaboration, AI design recommendations, engineering change management, and manufacturing analytics.
 
